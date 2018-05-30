@@ -1,0 +1,6 @@
+This is a small README file to illustrate the data structure used in the process of generating the stocks data.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+The stocks data is a 3-d array in matlab. 'stocksData(i,j,k)' means the ith feature of the jth stock at kth day. I will define the nunber of features, the number of stocks and the number of days later.
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
